@@ -57,7 +57,6 @@
 ├── train_labeled.csv # размеченные данные
 ├── test.csv # тестовый датасет
 ├── cm.png # confusion matrix
-├── xgb_final_model.pkl # обученная модель
-├── requirements.txt # зависимости
+├── requirements..txt # зависимости
 ├── baseline.ipynb # основной ноутбук
 └── README.md # описание проекта
